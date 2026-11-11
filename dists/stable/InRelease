@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 11 Nov 2026 19:29:50 +0000
+Description: Soundfolk, a desktop player for web radios
+Label: Soundfolk
+Origin: Soundfolk
+Suite: stable
+MD5Sum:
+ 5b6edf163dbc7ba8c50c3a8e34ec9d0b              877 main/binary-amd64/Packages
+ 442e6610cc0d11b685404090fa53bb84              576 main/binary-amd64/Packages.gz
+SHA1:
+ d1ca2a055752fc69df7ce648ac461e1298b584ea              877 main/binary-amd64/Packages
+ 1d8be9f609612bb084a95d55cda9e00a722751d5              576 main/binary-amd64/Packages.gz
+SHA256:
+ bc830f3639f6893d2c7632932ef41c425b86a1f797d1eb87947cb502e82acacb              877 main/binary-amd64/Packages
+ 20776f3e91eace5aaca86409b3d63fc13186eeae4d5d8e5ea4b781c5396ad923              576 main/binary-amd64/Packages.gz
+SHA512:
+ 042436ef25c257ddd38917bc7f9563b1f69980621e9123671406725c293744aa3c6e831a1f11db87c6b31a008892257a4592a962d470aca806fc41ef441fe4f1              877 main/binary-amd64/Packages
+ 030e26ee0e9e705a43315e1dc3c780e285cfebe86aed8ed17e32a979cf59f32cad85b342c2eb113a662d08a1a8e0c4866f30fd91eca60a237d81abb95cf71d2c              576 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSjjXbtBQ0/+RcAGROGewP/ZLiFNwUCavTCLgAKCRCGewP/ZLiF
+N4WmAP9U9hfZtgJFAGWDEkGkV+8sRTIp8nxG/Fn2krJ8bbO2vgEAhLX/NT3J9TU0
+dBqSkFpjBox0H0/EhnZ58nUS93qkoQs=
+=+0Ws
+-----END PGP SIGNATURE-----

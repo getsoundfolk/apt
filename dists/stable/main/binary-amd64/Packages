@@ -1,0 +1,18 @@
+Package: soundfolk
+Architecture: amd64
+Version: 0.3.0
+Priority: optional
+Section: sound
+Maintainer: github
+Installed-Size: 30392
+Depends: libasound2, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/s/soundfolk/Soundfolk_0.3.0_amd64.deb
+Size: 12551076
+MD5sum: bf3cac2bf4fbb7171ebf9cf1763a9362
+SHA1: 10822f3f552f3323990d11b2a2326bafaf111c40
+SHA256: a26a2ab87a1c2f5f5f25e8d24fc3165ae4f906b9d5999c0720fa9ba6182bda8a
+SHA512: 35ec7dc6d39b5a12985c637d57c3e576db5b79ce8f37c29c7fe5a596329e68bdc78fb74f8b2f195d6dcefa0a1c30abbfca9ce177d60724326d1bf4f513f7f8a1
+Homepage: https://github.com/getsoundfolk/soundfolk
+Description: Discover and listen to web radios from around the world
+ Soundfolk is a desktop player for internet radio stations: browse and play web radios from around the world, see what is on air, and keep a history of the tracks you heard.
+
